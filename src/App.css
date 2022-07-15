@@ -1,0 +1,13 @@
+li{
+    margin-left: 3em;
+}
+#descripcion{
+    width: 75%;
+}
+#nombretarea{
+    width:25%}
+
+button{
+    align-self:flex-end;
+    margin-left:3em;
+}
